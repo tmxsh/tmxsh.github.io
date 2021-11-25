@@ -24,7 +24,8 @@ That's all you need to install and start playing Old School Runescape!
 
 To install the client to play Old School Runescape, navigate to https://runelite.net/.
 1. Click on the Download button.
-! [Download] (/images/runelitedownload.png)
+<img src="/images/runelitedownload.png"
+     alt="Runelite download button"/>
 2. Save and run the file.
 3. Launch the Client and you can begin your journey!
 
