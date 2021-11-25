@@ -1,7 +1,7 @@
 ---
 layout: page 
-title: "TEST" 
-permalink: /test/
+title: "Main" 
+permalink: /main/
 ---
 
 
